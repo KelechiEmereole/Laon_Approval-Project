@@ -3,24 +3,36 @@
 ## Overview
 This Power BI project explores loan applicant data to uncover patterns in risk, demographics, and socio-economic factors influencing loan approval. The dashboard helps financial institutions visualize key trends and assess the riskiness of their applicant pool to inform better lending decisions.
 
-Table of Contents
-Introduction
+## Dashboard Snapshots
 
-Project Aim
+Here’s a preview of the Power BI dashboard used in this project:
 
-Project Description
+### 1. Overview Page
+![Overview](images/overview.png)
 
-Data Acquisition & Preparation
+### 2. Demographic Influence
+![Demographic](images/demographic_influence.png)
 
-Data Cleaning & Transformation
+### 3. Feature Insights Driving Risk
+![Feature Insights](images/feature_insights.png)
 
-Data Analysis & Visualization
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Project Aim](#project-aim)
 
-Insights & Interpretation
+3. [Project Description](#project-description)
 
-Recommendations
+4. [Data Acquisition and Preparation](#data-Acquisition-and-preparation)
 
-Introduction
+5. [Data Cleaning and Transformation](#data-cleaning-and-transformation)
+
+6. [Data Analysis and Visualization](#data-analysis-and-visualization)
+
+7. [Insights and Interpretation](#insights-and-interpretation)
+
+8. [Recommendations](#recommendations)
+
+## Introduction
 The Loan Approval Dashboard provides a comprehensive view of applicant characteristics and their relationship to loan risk. It uses visualizations to track metrics like car ownership, housing status, marital status, age, income level, and profession, all of which can influence whether an applicant is flagged as risky.
 
 The dashboard is divided into three main views:
@@ -31,10 +43,10 @@ Demographic Influence: Connects applicant features to their risk level.
 
 Feature Insights Driving Risk: Pinpoints which features correlate strongly with increased risk.
 
-Project Aim
+## Project Aim
 To analyze loan application data and identify key demographic and behavioral factors driving loan risk. This project aims to help lenders make more informed approval decisions by visualizing patterns in applicant data using Power BI.
 
-Project Description
+## Project Description
 This project involves building an interactive Power BI dashboard that highlights how different demographic factors influence an applicant’s likelihood of being considered risky. It helps uncover hidden patterns across:
 
 Geography
@@ -49,8 +61,8 @@ Professional background
 
 The dashboard enables slicing and filtering across various categories for deeper drilldowns.
 
-Data Acquisition & Preparation
-The dataset was provided in Excel format and included the following fields:
+## Data Acquisition and Preparation
+The dataset was provided in csv format and included the following fields:
 
 Risk Flag (1: risky, 0: safe)
 
@@ -70,7 +82,7 @@ State
 
 The data was loaded into Power BI and modeled to support filtering and drilldowns across states, professions, and demographic indicators.
 
-Data Cleaning & Transformation
+## Data Cleaning and Transformation
 Power Query was used to:
 
 Convert fields to appropriate data types (e.g., numeric for income, categorical for flags)
@@ -81,7 +93,7 @@ Create visual groupings (e.g., age bands, income brackets)
 
 Aggregate data by states, professions, and ownership types
 
-Data Analysis & Visualization
+## Data Analysis and Visualization
 1. Overview Dashboard
 KPI Cards: Total applicants (201.6K), risky % (12%), avg income (₹5M), avg age (50)
 
@@ -107,9 +119,8 @@ Income Brackets vs Risk
 
 House Ownership Risk Split
 
-Text Box: Summary of key analytical insights
 
-Insights & Interpretation
+## Insights and Interpretation
 Car Ownership: Applicants without cars show higher risk → car ownership may indicate financial reliability.
 
 Marital Status: Single applicants dominate and show greater risk than married ones.
@@ -122,11 +133,11 @@ Income Bracket ₹75k–₹100k: Shows the highest risk rate at 23%.
 
 Experience: Applicants with <5 years of experience show elevated risk, indicating job stability impacts creditworthiness.
 
-Recommendations
-Tighten Checks for Young Renters Without Cars: These applicants combine multiple high-risk traits.
+## Recommendations
+* Tighten Checks for Young Renters Without Cars: These applicants combine multiple high-risk traits.
 
-Scrutinize High-Risk Income Bands: Apply stricter assessments for ₹75k–₹100k bracket applicants.
+* Scrutinize High-Risk Income Bands: Apply stricter assessments for ₹75k–₹100k bracket applicants.
 
-Encourage Asset Disclosure: Car/home ownership can be used as a proxy for credit reliability.
+* Encourage Asset Disclosure: Car/home ownership can be used as a proxy for credit reliability.
 
-Segment Marketing: Design tailored products for low-risk groups like married homeowners or long-term professionals.
+* Segment Marketing: Design tailored products for low-risk groups like married homeowners or long-term professionals.
