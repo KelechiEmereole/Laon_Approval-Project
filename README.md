@@ -8,7 +8,7 @@ This Power BI project explores loan applicant data to uncover patterns in risk, 
 Here’s a preview of the Power BI dashboard used in this project:
 
 ### 1. Overview Page
-![Overview](images/overview.png)
+![Dashboard Overview](https://github.com/KelechiEmereole/Laon_Approval-Project/blob/main/Dashbord_Overview.PNG?raw=true)
 
 ### 2. Demographic Influence
 ![Demographic](images/demographic_influence.png)
