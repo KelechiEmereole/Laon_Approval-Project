@@ -140,6 +140,8 @@ House Ownership Risk Split
 
 * Encourage Asset Disclosure: Car/home ownership can be used as a proxy for credit reliability.
 
+* Segment Marketing: Design tailored products for low-risk groups like married homeowners or long-term professionals.
+
 
 <br/><br/>
 
@@ -149,5 +151,3 @@ House Ownership Risk Split
 
 ### Author
 [Kelechi Emereole](https://github.com/KelechiEmereole)
-
-* Segment Marketing: Design tailored products for low-risk groups like married homeowners or long-term professionals.
