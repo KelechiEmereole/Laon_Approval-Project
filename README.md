@@ -14,7 +14,7 @@ Here’s a preview of the Power BI dashboard used in this project:
 ![Demographic](https://github.com/KelechiEmereole/Laon_Approval-Project/blob/main/Demographic_influence.PNG?raw=true)
 
 ### 3. Feature Insights Driving Risk
-![Feature Insights](images/feature_insights.png)
+![Feature Insights](https://github.com/KelechiEmereole/Laon_Approval-Project/blob/main/Future_Driving_Risk.PNG?raw=true)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -121,17 +121,17 @@ House Ownership Risk Split
 
 
 ## Insights and Interpretation
-Car Ownership: Applicants without cars show higher risk → car ownership may indicate financial reliability.
+* Car Ownership: Applicants without cars show higher risk → car ownership may indicate financial reliability.
 
-Marital Status: Single applicants dominate and show greater risk than married ones.
+* Marital Status: Single applicants dominate and show greater risk than married ones.
 
-Housing Status: Renters display the highest risk (23.3K risky out of 185.6K total renters).
+* Housing Status: Renters display the highest risk (23.3K risky out of 185.6K total renters).
 
-Age Group 21–50: This group represents both the highest number of applicants and the largest risk concentration.
+* Age Group 21–50: This group represents both the highest number of applicants and the largest risk concentration.
 
-Income Bracket ₹75k–₹100k: Shows the highest risk rate at 23%.
+* Income Bracket ₹75k–₹100k: Shows the highest risk rate at 23%.
 
-Experience: Applicants with <5 years of experience show elevated risk, indicating job stability impacts creditworthiness.
+* Experience: Applicants with <5 years of experience show elevated risk, indicating job stability impacts creditworthiness.
 
 ## Recommendations
 * Tighten Checks for Young Renters Without Cars: These applicants combine multiple high-risk traits.
@@ -139,5 +139,15 @@ Experience: Applicants with <5 years of experience show elevated risk, indicatin
 * Scrutinize High-Risk Income Bands: Apply stricter assessments for ₹75k–₹100k bracket applicants.
 
 * Encourage Asset Disclosure: Car/home ownership can be used as a proxy for credit reliability.
+
+
+<br/><br/>
+
+**Thank you for taking the time to read this report!**
+
+**Please reach out for any updates.**
+
+### Author
+[Kelechi Emereole](https://github.com/KelechiEmereole)
 
 * Segment Marketing: Design tailored products for low-risk groups like married homeowners or long-term professionals.
