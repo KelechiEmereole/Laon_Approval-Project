@@ -11,7 +11,7 @@ Here’s a preview of the Power BI dashboard used in this project:
 ![Dashboard Overview](https://github.com/KelechiEmereole/Laon_Approval-Project/blob/main/Dashbord_Overview.PNG?raw=true)
 
 ### 2. Demographic Influence
-![Demographic](images/demographic_influence.png)
+![Demographic](https://github.com/KelechiEmereole/Laon_Approval-Project/blob/main/Demographic_influence.PNG?raw=true)
 
 ### 3. Feature Insights Driving Risk
 ![Feature Insights](images/feature_insights.png)
